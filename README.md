@@ -1,2 +1,2 @@
-# Energy-based-Interference-Detection
+# Interference-Detection
 FCME Algorithm
