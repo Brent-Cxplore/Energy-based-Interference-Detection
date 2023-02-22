@@ -59,5 +59,5 @@ end
 %% plot
 figure (1);
 plot(jnr, detectRate, 'k-*');
-xlabel('jnr'); ylabel('ÆµÓò¼ì²âÂÊ'); legend('É¨Æµ');
+xlabel('JNR'); ylabel('ÆµÓò¼ì²âÂÊ'); legend('É¨Æµ');
 axis auto; grid on;

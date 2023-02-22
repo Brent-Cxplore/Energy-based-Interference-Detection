@@ -62,5 +62,5 @@ end
 %% plot
 figure (1);
 plot(jnr, detectRate, 'y-*');
-xlabel('jnr'); ylabel('频域检测率'); legend('部分带');
+xlabel('JNR'); ylabel('频域检测率'); legend('部分带');
 axis auto; grid on;
